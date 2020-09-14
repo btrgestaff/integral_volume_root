@@ -17,7 +17,7 @@ echo "</br></br>";
 echo "V 2->5 f:4/x = ";
 print_r($calc::volume(f, 2, 5));
 
-echo "</br></br>";
+echo " * &#960</br></br>";
 
 echo "2x+1=0</br>";
 print_r($calc::calcroot(2, 1));
